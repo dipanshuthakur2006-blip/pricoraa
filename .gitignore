@@ -1,0 +1,9 @@
+# These folders and logs are generated while running or building the project.
+# Keep those files out of source control while leaving the project files visible.
+node_modules/
+.next/
+.next-dev/
+.next-prod/
+.vercel/
+*.log
+.env*
